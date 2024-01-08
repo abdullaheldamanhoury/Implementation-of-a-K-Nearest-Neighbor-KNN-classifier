@@ -1,4 +1,7 @@
-Implementation of a K-Nearest-Neighbor classifier,
+### Technologies
+* Python
+* Pandas, NumPy, Matplotlib, Seaborn
+### Project description
 <ul>
 <li>This implementation is a K-Nearest Neighbor (KNN) classifier that uses the leave-one-out cross validation approach for 
 determining the best K value.</li>
